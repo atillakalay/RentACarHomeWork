@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OlVqEk9Ae5sqLZ8hnOUFSMXTgt+KwPHbT/I6HfkE32e29n85R3d/riUuesn28r7w0qhZMs5u8K+7nSNLBW2uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Atilla Kalay\\source\\repos\\RentACarHomeWork\\RentACar.API\\RentACar.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

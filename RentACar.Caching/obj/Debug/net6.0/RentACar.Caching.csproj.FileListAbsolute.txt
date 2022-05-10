@@ -1,0 +1,12 @@
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\bin\Debug\net6.0\RentACar.Caching.deps.json
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\bin\Debug\net6.0\RentACar.Caching.dll
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\bin\Debug\net6.0\RentACar.Caching.pdb
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\RentACar.Caching.csproj.AssemblyReference.cache
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\RentACar.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\RentACar.Caching.AssemblyInfoInputs.cache
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\RentACar.Caching.AssemblyInfo.cs
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\RentACar.Caching.csproj.CoreCompileInputs.cache
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\RentACar.Caching.dll
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\refint\RentACar.Caching.dll
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\RentACar.Caching.pdb
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Caching\obj\Debug\net6.0\ref\RentACar.Caching.dll

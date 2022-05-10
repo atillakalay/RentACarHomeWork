@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RentACar.Repository/1.0.0": {
+        "dependencies": {
+          "RentACar.Core": "1.0.0"
+        },
+        "runtime": {
+          "RentACar.Repository.dll": {}
+        }
+      },
+      "RentACar.Core/1.0.0": {
+        "runtime": {
+          "RentACar.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RentACar.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RentACar.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

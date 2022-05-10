@@ -1,0 +1,15 @@
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\bin\Debug\net6.0\RentACar.Repository.deps.json
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\bin\Debug\net6.0\RentACar.Repository.dll
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\bin\Debug\net6.0\RentACar.Repository.pdb
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\bin\Debug\net6.0\RentACar.Core.dll
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\bin\Debug\net6.0\RentACar.Core.pdb
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\RentACar.Repository.csproj.AssemblyReference.cache
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\RentACar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\RentACar.Repository.AssemblyInfoInputs.cache
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\RentACar.Repository.AssemblyInfo.cs
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\RentACar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\RentACar.Repository.csproj.CopyComplete
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\RentACar.Repository.dll
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\refint\RentACar.Repository.dll
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\RentACar.Repository.pdb
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Repository\obj\Debug\net6.0\ref\RentACar.Repository.dll
