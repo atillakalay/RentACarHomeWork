@@ -10,3 +10,5 @@ C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Core\obj\Debug\net6
 C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Core\obj\Debug\net6.0\refint\RentACar.Core.dll
 C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Core\obj\Debug\net6.0\RentACar.Core.pdb
 C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Core\obj\Debug\net6.0\ref\RentACar.Core.dll
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Core\bin\Debug\net6.0\RentACar.Core.runtimeconfig.json
+C:\Users\Atilla Kalay\source\repos\RentACarHomeWork\RentACar.Core\obj\Debug\net6.0\RentACar.Core.genruntimeconfig.cache
