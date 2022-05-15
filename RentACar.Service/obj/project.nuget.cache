@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KjT+rgVRyWRNnMQ6P1hukKV/vWucjzepqiOVROnEU5zdDS0hbBvdbp6hkN/ubugUejiejMtncGSZPHTlF5g2tw==",
+  "dgSpecHash": "IelR0uPOgfyYa6ww6wpcIY2DlwCi2mXvbxbLjhISprgiJbT3tNwP7qnxqecTkQvTDQLoSd8r3wLziEoM+QJ9fQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Atilla Kalay\\source\\repos\\RentACarHomeWork\\RentACar.Service\\RentACar.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Atilla Kalay\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Atilla Kalay\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Atilla Kalay\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Atilla Kalay\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",

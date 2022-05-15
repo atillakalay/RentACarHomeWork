@@ -1,4 +1,3 @@
-using System.Reflection;
 using Microsoft.EntityFrameworkCore;
 using RentACar.Core.Repositories;
 using RentACar.Core.Services;
@@ -6,6 +5,9 @@ using RentACar.Core.UnitOfWorks;
 using RentACar.Repository;
 using RentACar.Repository.Repositories;
 using RentACar.Repository.UnitOfWorks;
+using RentACar.Service.Mapping;
+using RentACar.Service.Services;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +20,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-//builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
+builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
+builder.Services.AddAutoMapper(typeof(MapProfile));
 
 
 

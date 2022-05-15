@@ -10,6 +10,9 @@
         public string ImageUrl { get; set; }
         public bool State { get; set; }
         public int BrandId { get; set; }
+        public int CustomerId { get; set; }
         public Brand Brand { get; set; }
+        public Customer Customer { get; set; }
+
     }
 }
